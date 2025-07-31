@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "titulo" : "Dios se Revela", 
+            "descripcion" : "Dios se revela es un curso que, haciendo uso de la tecnología y lenguaje modernos, explica la fe cristiana. En él se presenta la obra de salvación de Dios a través de Cristo, los principios fundamentales de la fe cristiana y diversos aspectos prácticos de la fe en la vida del creyente.",
+            "videos" : [
+                {
+                    "id" : "1",
+                    "capitulo": "¿Por qué Jesús?",
+                    "idYoutube" : "y9LlnLTH87U",
+                    "pdf": ""
+                },
+                {
+                    "id" : "2",
+                    "capitulo": "¿Por qué la Biblia?",
+                    "idYoutube" : "osg_WmeLxQk",
+                    "pdf": ""
+                },
+                {
+                    "id" : "3",
+                    "capitulo": "¿Por qué la Biblia?",
+                    "idYoutube" : "IMbW-slqPcw",
+                    "pdf": ""
+                }
+            ]
+        }
+    ]
+}

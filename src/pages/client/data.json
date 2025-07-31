@@ -1,0 +1,75 @@
+{
+    "eventos": [
+        {
+            "id" : "1",
+            "titulo": "Evento 1",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit 1",
+            "location": "Av. Independencia N° 100",
+            "fecha": "ABR 30 2025"
+        },
+        {
+            "id" : "2",
+            "titulo": "Evento 2",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit 2",
+            "location": "Av. Independencia N° 300",
+            "fecha": "JUN 04 2024"
+        },
+        {
+            "id" : "3",
+            "titulo": "Evento 3",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit 3",
+            "location": "Av. Avelino N° 500",
+            "fecha": "OCT 12 2026"
+        }
+    ],
+    "noticias" : [
+        {
+            "id" : "1",
+            "titulo": "Noticia Nueva  1",
+            "fecha": "Julio 30, 2024",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ajndjandasfnask jfsakljfbsakebfskajebfksadbfaskdf 1",
+            "link": "/noticia",
+            "imageSrc": "https://www.iglesiaciudadquesada.com/wp-content/uploads/2022/05/Unidad-de-los-Cristianos-2022-696x365.png"
+        },
+        {
+            "id" : "2",
+            "titulo": "Noticia Nueva  2",
+            "fecha": "Octure 30, 2024",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ajndjandasfnas kjfsakljfbsakebfskajebfksadbfaskdf 1",
+            "link": "#",
+            "imageSrc": "https://www.iglesiaciudadquesada.com/wp-content/uploads/2022/05/Unidad-de-los-Cristianos-2022-696x365.png"
+        },
+        {
+            "id" : "3",
+            "titulo": "Noticia Nueva  1",
+            "fecha": "Julio 30, 2024",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ajndjandasfna skjfsakljfbsakebfskajebfksadbfaskdf 1",
+            "link": "#",
+            "imageSrc": "https://www.iglesiaciudadquesada.com/wp-content/uploads/2022/05/Unidad-de-los-Cristianos-2022-696x365.png"
+        },
+        {
+            "id" : "1",
+            "titulo": "Noticia Nueva  1",
+            "fecha": "Julio 30, 2024",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ajndjandasfnask jfsakljfbsakebfskajebfksadbfaskdf 1",
+            "link": "#",
+            "imageSrc": "https://www.iglesiaciudadquesada.com/wp-content/uploads/2022/05/Unidad-de-los-Cristianos-2022-696x365.png"
+        },
+        {
+            "id" : "2",
+            "titulo": "Noticia Nueva  2",
+            "fecha": "Octure 30, 2024",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ajndjandasfnas kjfsakljfbsakebfskajebfksadbfaskdf 1",
+            "link": "#",
+            "imageSrc": "https://www.iglesiaciudadquesada.com/wp-content/uploads/2022/05/Unidad-de-los-Cristianos-2022-696x365.png"
+        },
+        {
+            "id" : "3",
+            "titulo": "Noticia Nueva  1",
+            "fecha": "Julio 30, 2024",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ajndjandasfna skjfsakljfbsakebfskajebfksadbfaskdf 1",
+            "link": "#",
+            "imageSrc": "https://www.iglesiaciudadquesada.com/wp-content/uploads/2022/05/Unidad-de-los-Cristianos-2022-696x365.png"
+        }
+    ]
+}
