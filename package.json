@@ -9,7 +9,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "homepage": "https://frontend-cptln.mariov-dev.net.pe/",
+  "homepage": "https://cptln.pe",
   "dependencies": {
     "@heroicons/react": "^2.1.5",
     "@tailwindcss/line-clamp": "^0.4.4",
